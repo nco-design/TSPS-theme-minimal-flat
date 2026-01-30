@@ -25,16 +25,16 @@
         "nav_color3":"#80FFFFFF",
         "content_color1":"#FFFFFFFF",
         "content_color2":"#80FFFFFF",
-        "content_color3":"#FFC8E720",
-        "content_color4":"#FFC8E720",
+        "content_color3":"#80FFFFFF",
+        "content_color4":"#80FFFFFF",
         "stat_color1":"#FFFFFFFF",
-        "stat_color2":"#FFC8E720",
+        "stat_color2":"#80FFFFFF",
         "menu_color1":"#FFFFFFFF",
         "menu_color2":"#FFFFFFFF",
-        "popup_color1":"#FFC8E720",
+        "popup_color1":"#80FFFFFF",
         "popup_color2":"#FFFFFFFF",
         "popup_color3":"#FFFFFFFF",
-        "highlight_color1":"#FFC8E720",
+        "highlight_color1":"#80FFFFFF",
         "shadow_color1":"#FF000000"
     }
 } 
