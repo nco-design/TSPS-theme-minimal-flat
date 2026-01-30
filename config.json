@@ -20,12 +20,12 @@
         "popup_font3":36
     },
     "fontcolor":{
-        "nav_color1":"#80FFFFFF",
-        "nav_color2":"#FFFFFFFF",
-        "nav_color3":"#80FFFFFF",
-        "content_color1":"#FFFFFFFF",
-        "content_color2":"#80FFFFFF",
-        "content_color3":"#80FFFFFF",
+        "nav_color1":"#80FF0000",
+        "nav_color2":"#FF0000FF",
+        "nav_color3":"#8000FF00",
+        "content_color1":"#FF00FFFF",
+        "content_color2":"#80FF00FF",
+        "content_color3":"#80FFFF00",
         "content_color4":"#80FFFFFF",
         "stat_color1":"#FFFFFFFF",
         "stat_color2":"#80FFFFFF",
